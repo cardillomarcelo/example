@@ -1,5 +1,5 @@
 package package2
 
-func() X {
+func X() {
 	
 }
